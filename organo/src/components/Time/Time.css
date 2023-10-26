@@ -1,5 +1,7 @@
 .time {
     padding: 32px;
+    background-image: url("https://cdn.discordapp.com/attachments/1115436629356724224/1166890026261549087/fundo.png?ex=654c2206&is=6539ad06&hm=77bbc2461d4e76578d465540350f14b7684e30f06a86a3785c161fe87913f514&");
+    background-size: contain;
 }
 
 .time h3 {

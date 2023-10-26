@@ -1,0 +1,25 @@
+.rodape-inicial {
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+
+.rodape-inicial .logo-alura {
+    width: 120px;
+}
+
+.rodape-inicial p {
+    color: #fff;
+    font-weight: 600;
+}
+
+.rodape-inicial .redes-sociais {
+    display: flex;
+    gap: 30px;
+}
+
+.rodape-inicial .redes-sociais .icone-rede-social img {
+    width: 24px;
+}

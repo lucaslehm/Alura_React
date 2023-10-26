@@ -20,6 +20,10 @@ const Formulario = (props) => {
             imagemColaborador,
             timeColaborador
         })
+        setNomeColaborador('')
+        setCargoColaborador('')
+        setImagemColaborador('')
+        setTimeColaborador('')
     }
 
 
